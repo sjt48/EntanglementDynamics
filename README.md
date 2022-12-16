@@ -1,4 +1,4 @@
-# EntanglementDynamics
+# Entanglement Dynamics
 
 This repository contains code used for the project *Measuring out quasi-local integrals of motion from entanglement* by B. Lu, C. Bertoni, S. J. Thomson and J. Eisert.
 
