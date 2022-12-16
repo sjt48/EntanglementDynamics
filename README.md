@@ -1,6 +1,6 @@
 # EntanglementDynamics
 
-This repository contains code used for the project ``Measuring out quasi-local integrals of motion from entanglement" by B. Lu, C. Bertoni, S. J. Thomson and J. Eisert.
+This repository contains code used for the project *Measuring out quasi-local integrals of motion from entanglement* by B. Lu, C. Bertoni, S. J. Thomson and J. Eisert.
 
 The code in this repository makes use of the [QUIMB package](https://quimb.readthedocs.io/en/latest/) for quantum information calculations in many-body quantum systems. The Python script ``entanglement.py" generates the data used in this project. It takes three command line arguments, for the system size, disorder strength and maximum bond dimension respectively. For example, to run a simulation for L=12 at disorder strength d=9 and bond dimension chi=128, the command is the following:
 
